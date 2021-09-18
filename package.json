@@ -10,5 +10,14 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"keywords": [
+		"descriptive",
+		"related",
+		"freecodecamp",
+		"words"
+	],
+	"license": "MIT","version": "1.0.0",
+	"description": "A project that does something awesome",
+	"author": "Jami Schwarzwalder"
 }
